@@ -1,4 +1,4 @@
-# Comparador de Pedidos
+# Order Comparator
 
 A command line tool I built and use in my own business, Diseño, an art
 supplies store in El Salvador. Before I send a purchase order to a supplier,
